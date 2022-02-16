@@ -18,7 +18,7 @@
 <body>
 
 <?php
-//Inclui a conexão com o BD
+//Inclui a conexão com o BD com a classe conect
 include 'api/conn.php';
 
 //Faz o SELECT da tabela, usando Prepared Statements.
